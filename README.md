@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishswami1114" alt="manishswami1114" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/swamiji2004" target="blank"><img src="https://img.shields.io/twitter/follow/swamiji2004?logo=twitter&style=for-the-badge" alt="swamiji2004" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
